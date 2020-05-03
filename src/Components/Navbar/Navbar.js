@@ -25,7 +25,7 @@ function NavBar() {
   return (
     <div className={classes.root}>
       <AppBar position="static">
-        <Typography variant="h3" className="text-center">
+        <Typography variant="h4" className="text-center">
           <Box textAlign="center" m={2}>
             IMAGES SEARCH
           </Box>
